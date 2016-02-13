@@ -23,3 +23,4 @@
 
 ###Head of Sponsorships
 
+Nice read: https://medium.com/hackathons-anonymous/the-first-step-in-planning-a-successful-hackathon-6cd4f8bd25a2#.lzu2z7880
