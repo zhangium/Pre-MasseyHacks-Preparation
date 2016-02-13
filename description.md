@@ -13,13 +13,17 @@
 - Help maintain the social media accounts
 - Design snapchat filter if we use one (just design things man)
 
+###Teams
+- Events
+- Tech
+
 ==========
 **I'll probably end up taking both the logistics and sponsorships jobs**
 =========
 ###Head of Logistics
 - Figure out venue things
 - Figure out little details about the event
-
+- Prizes & how the event will go
 
 ###Head of Sponsorships
 
