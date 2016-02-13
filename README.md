@@ -14,5 +14,5 @@ Read these documents
 
 ###Executive Positions
 - The executive team will be more structured than MasseyHacks.
-- [Descirptions] (descriptions.md)
+- [Descriptions of Jobs] (description.md)
 - Hierarchy:  Director -> Heads -> Teams
