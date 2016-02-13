@@ -11,6 +11,7 @@
 - Design tshirt
 - Design banners & email template(s)
 - Help maintain the social media accounts
+- Design snapchat filter if we use one (just design things man)
 
 ==========
 **I'll probably end up taking both the logistics and sponsorships jobs**
