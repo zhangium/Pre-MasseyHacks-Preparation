@@ -14,8 +14,10 @@
 - Design snapchat filter if we use one (just design things man)
 
 ###Teams
-- Events
-- Tech
+- Events (up to Head of Events)
+- Tech (2 people? App and website? or just website? or just 1 person?)
+- Logistics (1 person, a younger student to train for next year)
+- Sponsorships (1 person, a younger student to train for next year)
 
 ==========
 **I'll probably end up taking both the logistics and sponsorships jobs**
