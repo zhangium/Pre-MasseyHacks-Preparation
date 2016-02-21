@@ -1,0 +1,21 @@
+- one common area
+- sponsors/mentors
+- make sure the team is on the same page
+- what message do we want to deliver
+- over-raise $$ to continue to throw events after the hackathon
+- cortex model 
+  - learning similar things
+  - encourage to sustain relationship after the event
+  - most successful marketing
+    - try to be as open as welcoming as possible
+      - workshops
+      
+  - build one on one relationships
+    - have a lot of volunteers
+      - volunteers assigned to sponsors (check on sponsors, introduce to meet people, sponsors have people to talk to)
+      - use volunteers as personal outreach
+      - sense of community to organizer/volunteer
+      - pow wow before/middle of the event
+      
+- hardest hackathon organizing experience
+  - rejecting people
