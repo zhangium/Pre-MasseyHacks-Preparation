@@ -15,7 +15,7 @@ Annie Zhang
 
 
 ###Tech Team
-Rikin Katyl
+Rikin Katyal
 
 
 
