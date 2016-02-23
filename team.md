@@ -15,7 +15,7 @@ Michael Ala
 
 
 ###Tech Team
-Rikin Katyl
+Rikin Katyal
 
 
 
