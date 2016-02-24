@@ -11,7 +11,7 @@ Michael Ala
 
 
 ###Head of Logistics
-[Annie Zhang] 
+[Annie Zhang] (https://scontent.xx.fbcdn.net/hphotos-xla1/v/t34.0-12/12767441_624442697709182_1481298057_n.jpg?oh=39423c2ce344b176d1746dcd696ebe4c&oe=56CFA987)
 
 
 ###Tech Team
